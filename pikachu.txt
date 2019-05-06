@@ -1,1 +1,11 @@
 pokemon details........
+
+git init (Initialize git repo)
+git add . (Stage all files)
+git commit -m "Description here..." (commit files)
+git push (push code github repo)
+
+git status
+git log
+
+Handy notes!
